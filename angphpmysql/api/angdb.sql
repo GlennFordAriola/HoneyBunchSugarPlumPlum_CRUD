@@ -42,11 +42,12 @@ INSERT INTO `products` (`id`, `name`, `price`) VALUES
 (2, 'Monitor', 8000.00),
 (3, 'Printer', 10000.00),
 (4, 'Scanner', 5000.00),
-(5, 'CAPULONG, PAULINE', 0.00),
-(6, 'GARCIA, ROSEMARIE', 0.00),
-(7, 'DORADO, RITCHIE', 0.00),
-(8, 'DIOYO, AMIEL', 0.00),
-(9, 'CUETO, KRISTINA CASSANDRA', 0.00);
+(5, 'ARIOLA, GLENN', 0.00),
+(6, 'DE LEON, KEITH', 0.00),
+(7, 'GOMEZ, HONEY', 0.00),
+(8, 'LAGASCA, KEVIN', 0.00),
+(9, 'MANALO, RAYMAR', 0.00),
+(10, 'PACAMARA, MA. CRISTINE', 0.00);
 
 --
 -- Indexes for dumped tables
